@@ -1,0 +1,105 @@
+.insta{
+    font-family: 'soy';
+    font-size: 65px;
+    text-align: center;
+}
+
+/*Nome USERNAME perto da foto do perfil*/
+.div2{
+    position: absolute;
+    font-size: 38px;
+    left: 17%;
+    top: 14%;
+}
+
+.ponto{
+    position: absolute;
+    font-size: 59px;
+    left: 92%;
+    top: 12.5%;
+}
+
+
+
+/* -------------------IMAGENS FEED-------------------*/
+
+/*Imagem perquena de perfil perto do username*/
+.imgPerFeed{
+    width: 11%;
+    position: absolute;
+    left: 3%;
+    top: 12%;
+}
+
+
+/*Imagem publicada no feed*/
+.div3{
+
+    position: absolute;
+    left: -1%;
+    top: 19%;
+}
+
+/*LIKE BRANCO NA FOTO*/
+.likeFot{
+    position: absolute;
+    left: 20%;
+    top: 34%;
+    width: 62%;
+    opacity: 80%;
+}
+
+
+/*DETALHE EMBAIXO DA FOTO*/
+
+/*div suprema icons embaixo da foto*/
+.div4{
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    align-items: center;
+
+    top: 80%;
+    width: 31%;
+}
+
+/*detalhe dos icons*/
+.coment{
+    width: 111%;
+}
+
+/*numero de likes*/
+.div5{
+    position: absolute;
+    font-size: 38px;
+    left: 9%;
+    top: 86.8%;
+
+}
+
+/*coração de like*/
+.coracCom{
+    position: absolute;
+    top: 87%;
+    width: 3%;
+    left: 5%;
+}
+
+/*Comentário*/
+.div6{
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    align-items: center;
+    left: 4%;
+    top: 88.8%;
+    width: 45%;
+}
+
+h1{
+    font-size: 38px ;
+}
+
+.fino{
+    font-family: 'myriFin';
+}
